@@ -21,7 +21,7 @@ wavesurfer.init({
     progressColor: "#D5A216", // тут можно поменять цвет заполнения
     height: 48, // высота плеера
     scrollParent: false
-});
+}); 
 
 
 
